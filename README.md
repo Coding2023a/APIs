@@ -2,6 +2,7 @@
 
 ## Installation
 
+
 Install JSON Server globally using npm (Node Package Manager):
 
 ```bash
