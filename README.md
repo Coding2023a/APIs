@@ -1,4 +1,4 @@
-# My JSON Server
+# JSON Server
 
 ## Installation
 
